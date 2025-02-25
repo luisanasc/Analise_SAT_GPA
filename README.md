@@ -6,7 +6,7 @@ Este projeto tem como objetivo analisar a relação entre as notas do SAT e as n
 
 - Definição das Variáveis
 
-SAT (Scholastic Assessment Test): Um exame padronizado utilizado nos EUA para admissão em universidades, com pontuação variando de 400 a 1600 pontos.
+SAT (Scholastic Assessment Test): Um exame padronizado utilizado nos EUA para admissão em universidades, com pontuação variando de 400 a 1600 pontos. A tabela utilizada aqui, utiliza dados fantasia que variam de 1600 à 2050 pontos, seriam apenas de testes de alunos que passaram para o ensino superior.
 
 GPA (Grade Point Average): Média das notas acadêmicas dos alunos, variando geralmente de 0.0 a 4.0.
 
@@ -50,4 +50,4 @@ O coeficiente R² da regressão linear indica o grau de previsibilidade das nota
 
 ## Conclusão
 
-Os resultados demonstram que há uma relação entre as notas do SAT e o desempenho acadêmico representado pelo GPA, mas essa relação pode ser influenciada por outros fatores como qualidade do ensino, esforço acadêmico e outros critérios de admissão das universidades. Mais análises seriam necessárias para refinar os modelos e entender melhor as variáveis envolvidas.
+Os resultados demonstram que há uma relação entre as notas do SAT e o desempenho acadêmico representado pelo GPA, mas essa relação pode ser influenciada por outros fatores como qualidade do ensino, esforço acadêmico e outros critérios de admissão das universidades. Mais análises seriam necessárias para refinar os modelos e entender melhor as variáveis envolvidas. Seria interessante também uma pesquisa cultural sobre os hábitos de vida dessas estudantes antes e pós vida universitária como: rotina, alimentação, hábitos de estudo, saúde e lazer para trazer dados qualitativos e contextuais para a análise.
